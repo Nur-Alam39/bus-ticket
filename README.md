@@ -65,6 +65,6 @@ _**11. Ticket Print**_
 
 ![Screenshot (245)](https://user-images.githubusercontent.com/23233774/64102889-b2313780-cd92-11e9-8ee1-68d670b1f27a.png)
 
-_**12. Map of Bus Route **_
+_**12. Map of Bus Route**_
 
 ![Screenshot (238)](https://user-images.githubusercontent.com/23233774/64103135-4ef3d500-cd93-11e9-871c-07d5ac3e7f86.png)
