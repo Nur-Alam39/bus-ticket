@@ -14,9 +14,6 @@
 
 ## Technologies
 
-1.  HTML
-2.  CSS
-3.  Bootstrap4
-4.  Javascript
-5.  PHP
-6.  Ajax
+**Web based project**
+
+HTML, CSS, Bootstrap4, Javascript, PHP, Ajax, MySQL
