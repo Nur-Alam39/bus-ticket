@@ -1,7 +1,5 @@
 # Bus Ticket
 
-**Live Demo:** [https://bsmrstucsecf.000webhostapp.com/](https://bsmrstucsecf.000webhostapp.com/)
-
  **Contents:** 1. Introduction  2. Features  3. Technologies 4. Screenshots
  
  ## 1. Introduction
