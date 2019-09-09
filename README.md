@@ -18,7 +18,7 @@
 ## Technologies
 
 
-HTML, CSS, Bootstrap4, Javascript, PHP, Ajax, MySQL
+HTML, CSS, Bootstrap4, Javascript, PHP, Ajax, MySQL, SSLCOMMERZ(under development)
 
 
 ## Screenshots
