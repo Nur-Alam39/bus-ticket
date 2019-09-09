@@ -2,11 +2,11 @@
 
 **Contents:** 1. Introduction  2. Features  3. Technologies 4. Screenshots
  
- ## 1. Introduction
+ ## Introduction
  **Bus Ticket** is a web based project for reserving bus seat using mobile payment.
 
 
-## 2. Features
+## Features
 
 1.  Search bus 
 2.  View bus information with images
@@ -15,13 +15,13 @@
 5. Make Payment using bkash, rocket or surecash (under development) 
 6. Print ticket
 
-## 3. Technologies
+## Technologies
 
 
 HTML, CSS, Bootstrap4, Javascript, PHP, Ajax, MySQL
 
 
-## 4. Screenshots
+## Screenshots
 
 **1. Search Bar**
 
